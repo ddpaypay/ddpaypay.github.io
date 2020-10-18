@@ -1,8 +1,9 @@
 title: KINTEN
 description: Berbagi Konten Tulisan
 author: Dede Rukmana
-avatar: /avatar.png
+avatar: /avatar.jpg
 email: ddrukmana.id@gmail.com
+permalink: /:slug/
 
 plugins:
   - jekyll-seo-tag
