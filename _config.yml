@@ -3,6 +3,7 @@ description: Berbagi Konten Tulisan
 author: Dede Rukmana
 avatar: /avatar.jpg
 email: ddrukmana.id@gmail.com
+skin: daylight
 permalink: /:slug/
 
 plugins:
