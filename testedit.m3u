@@ -7,10 +7,9 @@ https://wpvsahsvl0yo.acek-cdn.com/hls2/01/02380/27vjt0vsqmpi_l/master.m3u8?t=OcH
 https://kr04czuypueg.milocdn.com/hls2/01/00004/3e93o7m36cr1_,l,n,h,.urlset/master.m3u8?t=TMhC5502oSwdRYoSNUhj-pH7EByF8hLLtGHXL6IauUI&s=1741532193&e=129600&f=21195&srv=TypRI417Iojq&i=0.4&sp=500&p1=TypRI417Iojq&p2=TypRI417Iojq&asn=7713
 #EXTINF:-1  tvg-name="God of Gamblers II" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/GodofGamblersII.jpg/220px-GodofGamblersII.jpg" group-title="Hong Kong" :http-referrer="" :http-user-agent="",God of Gamblers II
 https://gb6rsfkvexr3.milocdn.com/hls2/01/00013/vyia9qjtr5j5_,l,n,.urlset/master.m3u8?t=wcxmZfxGAm7kskf8MbeACOamZygPbaFYPxzYqOzicYI&s=1741532496&e=129600&f=67268&srv=TypRI417Iojq&i=0.4&sp=500&p1=TypRI417Iojq&p2=TypRI417Iojq&asn=7713
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/mnctv.png" group-title="Indonesia Channels" :http-referrer="https://www.rctiplus.com/" :http-user-agent="android-R+",MNC TV R+ 🇮🇩
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1  tvg-name="This Ain't Dracula XXX (2011)" tvg-id="" tvg-logo="https://assets.sb-cd.com/static/common/Images/logo.svg" group-title="SpankBang" :http-referrer="" :http-user-agent="",This Ain't Dracula XXX (2011)
+https://hls-uranus.sb-cd.com/hls/8/8/8841928-,240p,480p,720p,1080p,4k,.mp4.urlset/master.m3u8?secure=RcIuSb6szqdWPxRjHyeqBQ,1741850021&m=3&d=4&_tid=8841928
+
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/h7Qm4Rh/asean-futsal-2024.jpg" group-title="Indonesia Channels" :http-referrer="https://www.visionplus.id/" :http-user-agent="android-R+",MNCTV Plus🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
